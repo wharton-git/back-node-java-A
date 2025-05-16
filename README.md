@@ -43,3 +43,11 @@ yarn start
 4. The server should be properly deployed on your local machine and accessible at : `http://localhost:3000`
 
 >⚠️ If you are a developer, use `yarn dev` for development with nodemon
+
+💻 ( Linux ) If you want quick installation
+
+```bash
+cd back-node-java-A
+chmod +x ./install.sh
+./install.sh
+```
