@@ -6,7 +6,7 @@ const router = Router();
 router.post('/', createMateriel);
 router.get('/', fetchMateriel);
 router.patch('/', modifyMateriel);
-router.delete('/', deleteMateriel);
+router.post('/delete', deleteMateriel);
 router.get('/stat', stat);
 
 export default router;
