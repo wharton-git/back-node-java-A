@@ -1,10 +1,17 @@
 # Backend APP for JavaA (school project)
 
+![Static Badge](https://img.shields.io/badge/language-JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/database-MySQL-orange)
+![Static Badge](https://img.shields.io/badge/package_manager-Yarn-purple)
+
+🚀 ![Static Badge](https://img.shields.io/badge/environment-NodeJs-green)
+![Static Badge](https://img.shields.io/badge/framework-ExpressJS-lightGreen)
+
 ___
 
 > ExpressJs and NodeJs (with Yarn)
 
-## Prerequisites
+## 📌 Pre-requisites
 
 + Mysql `installed`
 + Database : javaA `created` (can imported in mysql using the sql script in `/sql/script.sql`)
@@ -12,7 +19,7 @@ ___
 
 ___
 
-## Installation
+## ⚙️ Installation
 
 1. Clone (Download) this repository
 
