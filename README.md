@@ -7,6 +7,7 @@ ___
 ## Prerequisites
 
 + Mysql `installed`
++ Database : javaA `created` (can imported in mysql using the sql script in `/sql/script.sql`)
 + Node Js `installed`
 
 ___
